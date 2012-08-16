@@ -1,0 +1,5 @@
+Run me with:
+  rackup -p 4567
+
+SQS graphs are at:
+  http://localhost:4567/sqs
